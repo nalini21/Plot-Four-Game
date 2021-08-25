@@ -19,3 +19,12 @@ The game of **"plot four"** or "connect four" is as follows. It consists of a gr
 | . | x | o | x | o | . | . |
 
 When a player wins, your program should end the game and acknowledge his victory.
+
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+
+int main(){
+return 0
+}
+```
